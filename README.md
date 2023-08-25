@@ -1,4 +1,4 @@
-# neuroscience-python-project
+# neuroscience-course-project
 Project is related to room occupancy detection using environmental observations such as temperature, humidity and CO2 level.
 Finally,we compared the accuracy results in a table that includes thirteen different models and represent the confusion matrix for each model to interpret the performance in more detail.
 Accuracies are on below:
